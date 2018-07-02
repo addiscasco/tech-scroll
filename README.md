@@ -1,1 +1,3 @@
-# text-scroll
+# tech-scroll
+
+https://addiscasco.github.io/tech-scroll/
